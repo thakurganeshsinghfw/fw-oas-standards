@@ -6,6 +6,9 @@ Freshworks products use REST architectural standard for building API capabilitie
 
 For onboarding and adding support for Documentation and SDK, the product teams need to ensure the below list of items are met.
 
+## Overview of Freshworks API Onboarding process
+
+![Freshworks API Onboarding process](/assets/API-onboarding-process.svg)
 ## Tech Writing onboarding checklist
 
 ### Prerequisites
